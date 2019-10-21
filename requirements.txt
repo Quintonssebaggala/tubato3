@@ -77,7 +77,7 @@ URLObject==2.4.3
 validators==0.12.1
 webassets==0.12.1
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 Whoosh==2.7.4
 wrapt==1.10.11
 WTForms==2.1
