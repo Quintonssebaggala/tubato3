@@ -51,7 +51,7 @@ MarkupSafe==1.0
 marshmallow==2.15.0
 marshmallow-sqlalchemy==0.13.2
 mccabe==0.6.1
-mysql-connector-python==8.0.6
+mysql-connector-python==8.0.14
 oauthlib==2.0.6
 PIL==1.1.7
 pilkit==2.0
