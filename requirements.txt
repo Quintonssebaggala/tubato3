@@ -55,7 +55,7 @@ mysql-connector-python==8.0.6
 oauthlib==2.0.6
 PIL==1.1.7
 pilkit==2.0
-Pillow==5.0.0
+Pillow==9.3.0
 pillowcase==2.0.0
 pycparser==2.18
 pylint==1.8.2
